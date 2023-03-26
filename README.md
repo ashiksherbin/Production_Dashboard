@@ -4,17 +4,17 @@
 **CONTENTS**
 
 
-|**CHAPTER NO.**|**TITLE**|**PAGE NO.**|
-| :-: | :-: | :-: |
-|**1**|**INTRODUCTION**||
-|**2**|**STAKE HOLDER NEEDS**|1|
-|**3**|**TOOLS AND REQUIREMENTS**||
-|**4**|**ANALYSIS**|4|
-||4\.1 DATASET|4|
-||4\.2 INSIGHT|8|
-||<p>4\.3 PROCESSING</p><p>4\.4 WAYS TO VISUALIZE</p>||
-|**5**|**VISUALIZATION**|12|
-|**6**|**EXECUTIVE SUMMARY**|18|
+|**CHAPTER NO.**|**TITLE**|
+| :-: | :-: |
+|**1**|**INTRODUCTION**|
+|**2**|**STAKE HOLDER NEEDS**|
+|**3**|**TOOLS AND REQUIREMENTS**|
+|**4**|**ANALYSIS**|
+||4\.1 DATASET|
+||4\.2 INSIGHT|
+||<p>4\.3 PROCESSING</p><p>4\.4 WAYS TO VISUALIZE</p>|
+|**5**|**VISUALIZATION**|
+|**6**|**EXECUTIVE SUMMARY**|
 
 
 
